@@ -57,5 +57,7 @@ psql -U postgres -d superstore_db -f sql/data_cleaning.sql
 5. Run the Business Analysis:
 
 psql -U postgres -d superstore_db -f sql/analysis.sql
+
+
 📄 License
 This project is open-source and available under the MIT License.
